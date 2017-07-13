@@ -1,0 +1,15 @@
+{
+  "name": "card-check",
+  "version": "0.0.1",
+  "description": "Checks if a given card number is valid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anish Khale",
+  "license": "ISC",
+  "dependencies": {
+    "card-validator": "^4.1.0",
+    "cli-table": "^0.3.1"
+  }
+}
